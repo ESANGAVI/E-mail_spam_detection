@@ -1,4 +1,5 @@
 **Email Spam Detection**
+
 This project builds a machine learning model to classify emails as spam or ham (not spam). It includes text cleaning, TF-IDF vectorization, model training, evaluation, and performance visualization.
 
 **Features**
